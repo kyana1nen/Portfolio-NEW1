@@ -1,0 +1,46 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+body {
+    height: 100%;
+    width: 100%;
+    background-color: #104500;
+    background-size: 100% 100%;
+    font-family: mine;
+    background-repeat: no-repeat;
+}
+
+@font-face {
+    src: url("../10923.otf");
+    font-family: mine;
+}
+
+.size {
+    font-size: 25px;
+}
+
+.radius {
+    border-radius: 10%;
+}
+
+.float {
+    float: left;
+}
+.m-l-1{
+    margin-left:800%;
+}
+.m-t-1{
+     margin-top:42%;
+}
+.m-t-2{
+    margin-top:-20%;
+}
+.h1{
+	height:520px;
+}
+.h2{
+	height:350px;
+}
+
